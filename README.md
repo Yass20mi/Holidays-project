@@ -1,2 +1,1 @@
-﻿# Projet Data
-<img width="940" height="628" alt="image" src="https://github.com/user-attachments/assets/2478358e-0c7f-4cd1-9e08-ec8ac7596504" />
+﻿
